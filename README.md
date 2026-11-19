@@ -17,7 +17,7 @@ Python ile geliştirilen, 3 boyutlu geometrik cisimlerin bir ışık kaynağı (
 
 ```bash
 # Repoyu klonlayın
-git clone [https://github.com/](https://github.com/)yunusemreshahbaz/umbra-3d.git
+git clone https://github.com/yunusemreshahbaz/umbra-3d.git
 cd umbra-3d
 
 # Sanal ortamı oluşturun ve aktifleştirin (Windows)
